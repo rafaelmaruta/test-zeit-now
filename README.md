@@ -1,4 +1,4 @@
-# Boilerplate com Webpack, React, Redux, Sass, CSS Modules, Jest, Storybook, Flow etc.
+# Test with Zeit Now
 
 
 ## Instalação
